@@ -1,5 +1,9 @@
 # FPSX2smart
 
+Для скептиков "пруф" на Unisoc T618+ MALI-G52:
+https://youtu.be/NdeOgDdCUZQ
+
+
 Новости по версиям тут
 https://github.com/zxcoupe/FPSX2smart/blob/main/Versions.txt
 
