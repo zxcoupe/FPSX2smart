@@ -1,6 +1,7 @@
 # FPSX2smart
 
-Главная новость данной версии! Очень удобно на планшет выводить ZABBIX!
+Новости по версиям тут
+https://github.com/zxcoupe/FPSX2smart/blob/main/Versions.txt
 
 Ускоритель FPS на ведрофонах в два раза! (Кроме Poco C40- тут дебильный процессор и оно не работает).
 Проверял на Rockchip, MTK, Snapdragon.
