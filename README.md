@@ -1,7 +1,7 @@
 # FPSX2smart
 
 Для скептиков записал "пруф" на Unisoc T618+ MALI-G52 (по мнению Gaijin, MALI-G52 считается бомж-GPU, поэтому настроить выше "средних" нельзя):
-https://youtu.be/NdeOgDdCUZQ
+https://youtu.be/HYZ1hMC9-vQ
 https://rutube.ru/video/c6916a0c4f376b2d3332bda095f3dcb6/
 https://vkvideo.ru/video3931506_456240585
 
