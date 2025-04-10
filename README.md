@@ -2,7 +2,7 @@
 
 Последнюю версию утилиты скачивайте с SOURCEFORGE
 
-https://sourceforge.net/projects/fpsx2smart/
+https://sourceforge.net/projects/fpsx2smart/files/
 
 Здесь только альфа версия для тестов.
 
