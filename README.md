@@ -16,7 +16,7 @@ https://sourceforge.net/projects/fpsx2smart/files/
 
 1 = для экранов 1280x720 (Powkiddy X28, GameMT E6+ and любых других с HD экраном)
 
-2 = для экранов 1336x752 (Retroid Pocket 3 pro and etc)
+2 = для экранов 1336x752 (Retroid Pocket 3 pro and etc) - возможно этот редим перепутан (ландшафт/портрет, но жалоб нет, не переделывал)
 
 3 = для экранов 600x1024 (Самые упоротые душман-планшеты and etc)
 
