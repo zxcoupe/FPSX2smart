@@ -1,5 +1,7 @@
 # FPSX2smart
 
+Важно! Утилиту из архива надо поместить в подкаталог ADB, если ADB не прописан в PATH!
+
 Последнюю версию утилиты скачивайте с SOURCEFORGE
 
 https://sourceforge.net/projects/fpsx2smart/files/
